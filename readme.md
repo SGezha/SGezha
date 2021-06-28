@@ -2,7 +2,7 @@
 
 **Мои проекты, над которыми я работаю:**
 - [YOMP](https://github.com/SGezha/YOMP) музыкальный плеер для YouTube и osu!
-- [Booba](https://github.com/SGezha/YOMP) приложение для Android/ios с имджбордами
+- [Booba](https://github.com/SGezha/booba) приложение для Android/IOS с имджбордами
 
 ---
 
