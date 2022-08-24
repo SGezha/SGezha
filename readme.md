@@ -2,7 +2,7 @@
 
 **Мои проекты, над которыми я работаю:**
 
-- [YOMP](https://github.com/SGezha/shikimori-anime-telegram-bot) телеграмм бот для просмотра и скачивание аниме
+- [Shikimori Anime Telegram Bot](https://github.com/SGezha/shikimori-anime-telegram-bot) телеграмм бот для просмотра и скачивание аниме
 - [YOMP](https://github.com/SGezha/YOMP) музыкальный плеер
 - [Booba](https://github.com/SGezha/booba) приложение для Android/IOS с имджбордами
 
