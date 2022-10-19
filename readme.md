@@ -10,7 +10,7 @@
 
 👥 **Сошиалс**
 
-[![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=f3f3f3)](https://vk.com/4ffun)
+[![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=7fa7d4)](https://vk.com/4ffun)
 [![Telegram](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=f3f3f3)](https://t.me/FuNSasha)
 [![Discord](https://img.shields.io/badge/SGezha%238228---?logo=discord&style=for-the-badge&color=f3f3f3)](https://discord.com)
 [![Twitch](https://img.shields.io/badge/Twitch---?logo=twitch&style=for-the-badge&color=f3f3f3)](https://twitch.tv/4funsasha)
@@ -26,8 +26,4 @@
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-f3f3f3?logo=Nuxt.js&logoColor=4FC08D&link=https://reactjs.org/&style=for-the-badge)](https://vuejs.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-336791?logo=MySQL&logoColor=white&link=https://www.postgresql.org/&style=for-the-badge)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white&link=https://www.postgresql.org/&style=for-the-badge)](https://www.postgresql.org/)
-
-
 ---
-
-[![SGezha github stats](https://github-readme-stats.vercel.app/api?username=SGezha&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SGezha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
