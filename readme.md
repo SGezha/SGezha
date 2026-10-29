@@ -18,7 +18,7 @@
       height="40"
       width="40"
   /></a>
-  <a href="https://t.me/FuNSasha" target="blank"
+  <a href="https://t.me/sgezha" target="blank"
     ><img
       src="https://telegram.org/img/t_logo.svg"
       alt="Xsb7Yjp"
